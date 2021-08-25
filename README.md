@@ -23,10 +23,11 @@
 
  **Information:**
 
-- 🔭 I’m currently working on  **CEE2 and Cyantha**
-- 🌱 I’m currently learning  **php , Typescript , Html , Python**
 - 🎮 I'm a **Pro Gamer** (Better than Dream)
 - 👶 I'm Still a Little **Baby**
+- 📚 I'm Best Guy in **School**
+- 🌎 I'm **Indian**
+
 
 **Discord Servers**
 
