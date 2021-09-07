@@ -1,41 +1,19 @@
-### Hi there 👋, I'm Fire
-
-<br/>
-<a href="https://discord.com/users/725945760629129277" target="_blank" >
-    <img align ="left" alt="Fire's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
-  <a href="https://twitter.com/ThatFireeeee" target="_blank">
-    <img align ="left" alt="Fire's Twitter " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCqFUXlE05tx-BaNrxvNJt1A" target="_blank">
-    <img align ="left" alt="Fire's Coding Channel " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-  </a>
-  <a href="https://www.youtube.com/channel/UClREMQoQC-UWhrUK7_ywQTA" target="_blank">
-    <img align ="left" alt="Fire's Gaming Channel " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-  </a>
-  <a href="https://github.com/Fireisbest" target="_blank">
-    <img align ="left" alt="Fire's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
-
-![]()
-
-<br/>
-
- **Information:**
-
-- 🎮 I'm a **Pro Gamer** (Better than Dream)
-- 👶 I'm Still a Little **Baby**
-- 📚 I'm Best Guy in **School**
-- 🌎 I'm **Indian**
+# Hello There!
+- Self taught programmer
+- Gamer , Programmer , Youtuber , Normal Kid (Better Than Dream In Gaming)
+- Exams Started ;-;
+### Tools and Language
+<p align="left"> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a><a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vsc" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/1024px-Repl.it_logo.svg.png" alt="vsc" width="40" height="40"/> </a></p>
+<br />
+### Latest Videos
+###### [Djs v13 Bot In Replit | Making Bot Send Message | Part 3](https://www.youtube.com/watch?v=wkx8ZA56Zi4&t=337s)
+###### [Djs v13 Bot In Replit | Getting Bot Online | Part 2](https://www.youtube.com/watch?v=9RHiHSa2ucA)
+###### [Djs v13 Bot In Replit | Updating Node | Part 1](https://www.youtube.com/watch?v=H984PgYriWI&t=25s)
 
 
-**Discord Servers**
 
-- [Fire's Realm](https://discord.gg/A7CKxDZERy)
-- [Clever Bots](https://discord.gg/kRAjk3KP9u)
-
-
-**Stats:**  
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Fireisbest&show_icons=true&hide_border=true&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fireisbest&theme=tokyonight&hide=batchfile">
+### Stats
+![Fireisbest's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fireisbest&show_icons=true&theme=gruvbox)
+<br>
+<img align="center" alt="Nish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fireisbest&langs_count=8&layout=compact"/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fireisbest&" alt="More Fire Stats" /></p>
