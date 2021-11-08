@@ -7,6 +7,7 @@
 <br />
 
 ### Latest Videos
+###### [Discord v13 Bot with Replit | Part 4 | Command Handler | Live Stream](https://www.youtube.com/watch?v=WVI4XltiitI)
 ###### [Djs v13 Bot In Replit | Making Bot Send Message | Part 3](https://www.youtube.com/watch?v=wkx8ZA56Zi4&t=337s)
 ###### [Djs v13 Bot In Replit | Getting Bot Online | Part 2](https://www.youtube.com/watch?v=9RHiHSa2ucA)
 ###### [Djs v13 Bot In Replit | Updating Node | Part 1](https://www.youtube.com/watch?v=H984PgYriWI&t=25s)
