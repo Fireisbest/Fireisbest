@@ -17,3 +17,5 @@
 <br>
 <img align="center" alt="Nish's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fireisbest&langs_count=8&layout=compact"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fireisbest&" alt="More Fire Stats" /></p>
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/Fureisbest)](https://github.com/Fireisbest)
+
